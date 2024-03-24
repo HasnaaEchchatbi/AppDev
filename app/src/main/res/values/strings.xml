@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name"> Compte </string>
+    <string name="tv1"> Les informations du compte de l\'utilisateur </string>
+    <string name="back"> Retour </string>
+    <string name="user_name"> Email : </string>
+    <string name="password"> Mot de passe : </string>
+    <string name="login"> S\'identifier </string>
+    <string name="active"> Garder ma session active</string>
+    <string name="mdoub"> Mot de passe oublié ? </string>
+    <string name="ville"> Ville : </string>
+    <string name="enterEmail"> votre adress email ... </string>
+    <string-array name="planets_array">
+        <item>Casa</item>
+        <item>Rabat</item>
+        <item>Settat</item>
+
+    </string-array>
+    <string-array name="cat">
+        <item>Casa</item>
+        <item>Rabat</item>
+        <item>Settat</item>
+
+    </string-array>
+    <string-array name="sect">
+        <item>Casa</item>
+        <item>Rabat</item>
+        <item>Settat</item>
+
+    </string-array>
+</resources>
